@@ -1,0 +1,96 @@
+{
+  "assetId": "Ua7qAZa2UQioKf4Z4KKFwgpzUug3Ztczm7YgE4", 
+  "stakeholders": {
+    "lockStatus": false, 
+    "someUtxo": "e39e1fe509ced73fcc323dfa39c4e45fee441bf7872ca4f736ba59dc21ad5ac0:0", 
+    "divisibility": 0, 
+    "assetId": "Ua7qAZa2UQioKf4Z4KKFwgpzUug3Ztczm7YgE4", 
+    "holders": [
+      {
+        "amount": 1, 
+        "address": "1L6iSC3UJrXdtCrAxuN9k2wNCtDrrz5S1L"
+      }, 
+      {
+        "amount": 1, 
+        "address": "1tT5QQvgxHvqj8R9djr26VERzMBp95yVV"
+      }, 
+      {
+        "amount": 12100, 
+        "address": "1KmyHAn4LbtJqykkSi8phfRZy7FMwu4zQk"
+      }, 
+      {
+        "amount": 99977678, 
+        "address": "1EThyvoMMJX3veFToqC6cTC7m9mnkaZieZ"
+      }, 
+      {
+        "amount": 10000, 
+        "address": "1PqaDThsRgrnhoNMvsrMMjGFqMfK1Z2pK1"
+      }, 
+      {
+        "amount": 10, 
+        "address": "1Fj7vVxttXMckFdNe52P6r5puQLoWjdbkC"
+      }, 
+      {
+        "amount": 10, 
+        "address": "1GDhpN5Nar8RXdGYLC749RL9Ezy6uWJ3SR"
+      }, 
+      {
+        "amount": 155, 
+        "address": "1A323XmGXa173MxxsnzQaoVnrA6bHTanb8"
+      }, 
+      {
+        "amount": 45, 
+        "address": "1N9wT6pzDFFtEyNvp2S8Y8VrtTA3Vc5d8K"
+      }
+    ], 
+    "aggregationPolicy": "aggregatable"
+  }, 
+  "someUtxo": "e39e1fe509ced73fcc323dfa39c4e45fee441bf7872ca4f736ba59dc21ad5ac0:0", 
+  "metadata": {
+    "lockStatus": false, 
+    "numOfHolders": 9, 
+    "divisibility": 0, 
+    "issuanceTxid": "ccb25b94170f9d857a478cc48ef642e9d89bf3ba1d20b30e653f2e58d70415dc", 
+    "assetId": "Ua7qAZa2UQioKf4Z4KKFwgpzUug3Ztczm7YgE4", 
+    "metadataOfIssuence": {
+      "data": {
+        "assetName": "Romanian Voting Coin", 
+        "userData": {
+          "meta": [
+            {
+              "required": false, 
+              "type": "URL", 
+              "value": "http://www.bitnation.ro", 
+              "key": "Our website"
+            }, 
+            {
+              "required": false, 
+              "type": "String", 
+              "value": "1coin=1LEU", 
+              "key": "Coin value"
+            }
+          ]
+        }, 
+        "description": "Romania's first voting token created for a transparent and democratic vote. The first one based on the blockchain tech. www.bitnation.ro", 
+        "urls": [
+          {
+            "url": "https://colu-files.s3.amazonaws.com/qnWQAcPYLA2e-sK8YOSR6-YE.png", 
+            "dataHash": "fcaefc235749566ba1165d9aee9b1f306f6dd4d1eb8fd1d51cda620c51ffe363", 
+            "mimeType": "image/png", 
+            "name": "icon"
+          }
+        ], 
+        "issuer": "MoodCrawler"
+      }
+    }, 
+    "sha2Issue": "38b3b38c5986006efd8fa702b656315a17d64c704a9e02186f888238013ca061", 
+    "numOfBurns": 0, 
+    "totalSupply": 100000000, 
+    "firstBlock": 456384, 
+    "issueAddress": "1EThyvoMMJX3veFToqC6cTC7m9mnkaZieZ", 
+    "someUtxo": "e39e1fe509ced73fcc323dfa39c4e45fee441bf7872ca4f736ba59dc21ad5ac0:0", 
+    "numOfIssuance": 1, 
+    "aggregationPolicy": "aggregatable", 
+    "numOfTransfers": 24
+  }
+}

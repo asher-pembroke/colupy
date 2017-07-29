@@ -1,0 +1,53 @@
+{
+  "holders": {
+    "1L6iSC3UJrXdtCrAxuN9k2wNCtDrrz5S1L": {
+      "address_info": {
+        "utxos": [
+          {
+            "index": 0, 
+            "used": false, 
+            "assets": [
+              {
+                "lockStatus": false, 
+                "divisibility": 0, 
+                "assetId": "Ua7qAZa2UQioKf4Z4KKFwgpzUug3Ztczm7YgE4", 
+                "amount": 1, 
+                "aggregationPolicy": "aggregatable", 
+                "issueTxid": "ccb25b94170f9d857a478cc48ef642e9d89bf3ba1d20b30e653f2e58d70415dc"
+              }
+            ], 
+            "value": 3000, 
+            "txid": "e39e1fe509ced73fcc323dfa39c4e45fee441bf7872ca4f736ba59dc21ad5ac0", 
+            "blocktime": 1489363619000, 
+            "blockheight": 456978, 
+            "scriptPubKey": {
+              "reqSigs": 1, 
+              "hex": "76a914d17f0eacf7d9dd90d714832715377ddcf4fb7c6088ac", 
+              "addresses": [
+                "1L6iSC3UJrXdtCrAxuN9k2wNCtDrrz5S1L"
+              ], 
+              "asm": "OP_DUP OP_HASH160 d17f0eacf7d9dd90d714832715377ddcf4fb7c60 OP_EQUALVERIFY OP_CHECKSIG", 
+              "type": "pubkeyhash"
+            }
+          }
+        ], 
+        "address": "1L6iSC3UJrXdtCrAxuN9k2wNCtDrrz5S1L"
+      }, 
+      "address": "1L6iSC3UJrXdtCrAxuN9k2wNCtDrrz5S1L"
+    }
+  }, 
+  "assets": {
+    "La8Hvi9QSWxH7gr6ofdi6JefUSjm2djoBxv7VT": {
+      "assetId": "La8Hvi9QSWxH7gr6ofdi6JefUSjm2djoBxv7VT", 
+      "stakeholders": null, 
+      "someUtxo": null, 
+      "metadata": null
+    }, 
+    "Ua7qAZa2UQioKf4Z4KKFwgpzUug3Ztczm7YgE4": {
+      "assetId": "Ua7qAZa2UQioKf4Z4KKFwgpzUug3Ztczm7YgE4", 
+      "stakeholders": null, 
+      "someUtxo": null, 
+      "metadata": null
+    }
+  }
+}
