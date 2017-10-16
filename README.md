@@ -5,7 +5,7 @@ Use this to load colored coin asset and holder information. You may also crawl a
 
 ![alt text](https://raw.githubusercontent.com/asher-pembroke/colupy/master/screen_shot.jpeg)
 
-See Colu_Python.ipynb for tutorial!
+See [Colu_Python.ipynb](https://github.com/asher-pembroke/colupy/blob/master/Colu_Python.ipynb) for tutorial!
 
 
 # Requirements
